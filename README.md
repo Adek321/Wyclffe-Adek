@@ -20,6 +20,8 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 <!-- Other Tools with Logos and Links -->
 ### 🧪 Other Tools I Use
 
@@ -43,8 +45,6 @@
   <img src="https://www.surveycto.com/wp-content/uploads/2021/06/SurveyCTO-Logo-2021-500px.png" alt="SurveyCTO" width="130"/>
 </a>
 
-- SurveyCTO: [https://www.surveycto.com/](https://www.surveycto.com/)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ## 📈 Featured Projects
 - 🔍 [Data Analysis on COVID-19 Trends in Kenya](https://github.com/YOUR_USERNAME/COVID-Kenya-Analysis)
