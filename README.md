@@ -13,38 +13,31 @@
 
 ## 🧰 Tools & Technologies
 
-<!-- Programming & Analysis -->
+<!-- Programming & Analysis Badges -->
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<!-- Other Tools with Logos and Links -->
-### 🧪 Other Tools I Use
+### 🧪 Other Tools
 
-<a href="https://www.cdc.gov/epiinfo/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cdc_logo.svg/320px-Cdc_logo.svg.png" alt="Epi Info" width="100"/>
-</a>
+| Tool      | Logo |
+|-----------|------|
+| **Epi Info** | ![Epi Info](https://www.cdc.gov/epiinfo/images/epi-logo.png) |
+| **Atlas.ti** | ![Atlas.ti](https://atlasti.com/wp-content/uploads/2023/02/logo-atlasti-2023.svg) |
+| **Taguette** | ![Taguette](https://avatars.githubusercontent.com/u/38758642?s=200&v=4) |
+| **ODK** | ![ODK](https://getodk.org/assets/img/odk-logo.png) |
+| **SurveyCTO** | ![SurveyCTO](https://www.surveycto.com/wp-content/uploads/2021/06/SurveyCTO-Logo-2021-500px.png) |
 
-<a href="https://atlasti.com/" target="_blank">
-  <img src="https://atlasti.com/wp-content/uploads/2023/02/logo-atlasti-2023.svg" alt="Atlas.ti" width="120"/>
-</a>
-
-<a href="https://www.taguette.org/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/38758642?s=200&v=4" alt="Taguette" width="80"/>
-</a>
-
-<a href="https://getodk.org/" target="_blank">
-  <img src="https://getodk.org/assets/img/odk-logo.png" alt="ODK" width="100"/>
-</a>
-
-<a href="https://www.surveycto.com/" target="_blank">
-  <img src="https://www.surveycto.com/wp-content/uploads/2021/06/SurveyCTO-Logo-2021-500px.png" alt="SurveyCTO" width="130"/>
-</a>
-
+> Click to explore:  
+- [Epi Info](https://www.cdc.gov/epiinfo/)  
+- [Atlas.ti](https://atlasti.com/)  
+- [Taguette](https://www.taguette.org/)  
+- [ODK](https://getodk.org/)  
+- [SurveyCTO](https://www.surveycto.com/)
 
 ## 📈 Featured Projects
 - 🔍 [Data Analysis on COVID-19 Trends in Kenya](https://github.com/YOUR_USERNAME/COVID-Kenya-Analysis)
