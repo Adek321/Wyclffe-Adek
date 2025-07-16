@@ -1,2 +1,30 @@
 # Wyclffe-Adek
 📊 "Welcome to my GitHub! I use R, Python, JASP, Epi-info,Jamvi, Excel, and SPSS to turn data into insights for better decision-making."
+🎓 BSc in Applied Statistics with IT|Master of science in Financial engineering(MScFE) | 📊 Data Enthusiast | 💻 R Programmer  
+📍 Based in Kenya | 💼 Open to Opportunities  
+
+## 🚀 What I Do
+- Data Cleaning, Analysis & Visualization (R, Python, SQL, PowerBI, Excel, SPSS)
+- Data Analyst                 
+- Research Assistance and Field Coordination
+- Reporting, Dashboarding, and GIS Mapping (QGIS)
+- Monitoring, Evaluatiion, Accountabiiliity,Research, Reporting and Learning
+- Virtual Assistant 
+
+## 🧰 Tools & Technologies
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-Blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+## 📈 Featured Projects
+- 🔍 [Data Analysis on COVID-19 Trends in Kenya](https://github.com/YOUR_USERNAME/COVID-Kenya-Analysis)
+- 📉 [M&E Dashboard Simulation in R](https://github.com/YOUR_USERNAME/ME-Dashboard-R)
+- 🧪 [Survey Data Cleaning Script](https://github.com/YOUR_USERNAME/survey-data-cleaning)
+
+## 📫 Let's Connect
+- 🌐 [LinkedIn](https://linkedin.com/in/YOURNAME)
+- 📧 Email: wycliffeadek@gmail.com
+- 📝 [My CV](https://your-cv-link)
+
+
