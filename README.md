@@ -12,9 +12,19 @@
 - Virtual Assistant 
 
 ## 🧰 Tools & Technologies
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-Blue?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+🧪 **Other Tools:**
+- Epi Info: [https://www.cdc.gov/epiinfo/](https://www.cdc.gov/epiinfo/)
+- Atlas.ti: [https://atlasti.com/](https://atlasti.com/)
+- Taguette: [https://www.taguette.org/](https://www.taguette.org/)
+- ODK: [https://getodk.org/](https://getodk.org/)
+- SurveyCTO: [https://www.surveycto.com/](https://www.surveycto.com/)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ## 📈 Featured Projects
@@ -23,8 +33,8 @@
 - 🧪 [Survey Data Cleaning Script](https://github.com/YOUR_USERNAME/survey-data-cleaning)
 
 ## 📫 Let's Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/YOURNAME)
-- 📧 Email: wycliffeadek@gmail.com
+- 🌐 [LinkedIn]([https://linkedin.com/in/YOURNAME](https://www.linkedin.com/in/wycliffe-adek-80254b366?)
+- 📧 Email: wicliffeadek@gmail.com
 - 📝 [My CV](https://your-cv-link)
 
 
